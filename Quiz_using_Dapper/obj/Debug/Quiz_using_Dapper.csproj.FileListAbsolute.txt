@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\Quiz_using_Dapper.exe.config
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\Quiz_using_Dapper.exe
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\Quiz_using_Dapper.pdb
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.Form1.resources
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.csproj.CopyComplete
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.exe
+C:\Users\Admin\Desktop\Quiz_using_Dapper\Quiz_using_Dapper\obj\Debug\Quiz_using_Dapper.pdb
